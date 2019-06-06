@@ -9,12 +9,12 @@
 
 
 
-<!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS >
 [![Build Status][build-shield]]()
 [![Contributors][contributors-shield]]()
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -123,7 +123,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Artyom Alekseev- [@rexolion](https://twitter.com/rexolion) - email@example.com
+Artyom Alekseev- [@rexolion](https://twitter.com/rexolion) 
 
 Project Link: [https://github.com/rexolion/bash2arduino](https://github.com/rexolion/bash2arduino)
 
