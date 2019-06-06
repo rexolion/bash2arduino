@@ -1,0 +1,27 @@
+{
+  "name": "bash2arduino",
+  "version": "1.0.0",
+  "description": "Simple bash script that takes data from sensors and pull it to arduino lcd",
+  "main": "bash2arduino",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexolion/bash2arduino.git"
+  },
+  "keywords": [
+    "arduino",
+    "bash",
+    "johnny-five"
+  ],
+  "author": "rexolion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexolion/bash2arduino/issues"
+  },
+  "homepage": "https://github.com/rexolion/bash2arduino#readme",
+  "dependencies": {
+    "johnny-five": "^1.1.0"
+  }
+}
