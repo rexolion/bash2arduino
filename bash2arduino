@@ -1,0 +1,10 @@
+#!/bin/bash
+node procTemp&
+while true; do
+	sleep 5s
+	temp=$(sensors | tail -2 | sed '/^$/d' | awk '{print $2}') 
+	echo $temp > currTemp
+	echo "Temperature updated to: $temp"
+done
+
+
